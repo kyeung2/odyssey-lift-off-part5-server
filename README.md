@@ -28,3 +28,10 @@ git checkout final
 ## Getting Help
 
 For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
+
+
+
+
+APOLLO_KEY=service:Trying-to-Deploy:s2DBdo7tUnpzQJTCArXP6Q
+APOLLO_GRAPH_REF=Trying-to-Deploy@current
+APOLLO_SCHEMA_REPORTING=true
